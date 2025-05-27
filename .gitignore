@@ -1,5 +1,5 @@
-DATA/rainfall/Hourly.csv
-DATA/rainfall/
-DATA/landslides/
+#DATA/rainfall/Hourly.csv
+#DATA/rainfall/
+#DATA/landslides/
 project.qgz
 land_env/
