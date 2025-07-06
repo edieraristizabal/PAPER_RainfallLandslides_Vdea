@@ -1,6 +1,6 @@
 # PAPER_RainfallLandslides_Vdea
 
-# Landslide and Rainfall Relationship in the Aburrá Valley, Colombia
+# **Landslide timing and rainfall regimes in a rapidly urbanizing tropical mountain valley in Colombia**
 
 This repository contains the code, data, and figures associated with the document *"Landslide and Rainfall Relationship in the Aburrá Valley, Colombia."*
 
